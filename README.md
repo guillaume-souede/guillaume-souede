@@ -15,7 +15,7 @@ I am a motivated and autonomous student in Bioinformatics with a strong passion 
 ## Contact
 
 - [LinkedIn: Guillaume Souede](https://fr.linkedin.com/in/guillaume-sou%C3%A8de-9b79b1204)
-- Email: guillaume.souede@orange.fr
+- Email: guillaume.souede@univ-tlse3.fr
 
 ---
 
