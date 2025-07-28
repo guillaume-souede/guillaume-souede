@@ -4,7 +4,7 @@ I am a motivated and autonomous student in Bioinformatics with a strong passion 
 
 ## Technical Skills
 
-- **Programming Languages:** JavaScript, Python, Go, R
+- **Programming Languages:** JavaScript, Python, Go, R, SQL
 - **Tools:** GitHub Actions, Linux
 
 ## Currently Learning
