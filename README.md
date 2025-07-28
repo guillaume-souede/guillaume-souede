@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello, I'm Guillaume Souede
 
-<!--
-**guillaume-souede/guillaume-souede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I am Guillaume Souede, a motivated and autonomous student in Bioinformatics with a strong passion for software development and academia. My curiosity drives me to continuously explore emerging technologies and broaden my skillset, notably in self-directed projects (MOOCs, ...).
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages:** JavaScript, Python, Go, R
+- **Tools:** GitHub Actions, Linux
+
+## Currently Learning
+
+- Go
+- Machine Learning and Artificial Intelligence
+
+## Contact
+
+- [LinkedIn: Guillaume Souede](https://fr.linkedin.com/in/guillaume-sou%C3%A8de-9b79b1204)
+- Email: guillaume.souede@orange.fr
+
+## Recent Projects
+
+---
+
+> “Code is code.”
