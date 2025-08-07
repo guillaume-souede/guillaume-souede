@@ -9,8 +9,8 @@ I am a motivated and autonomous student in Bioinformatics with a strong passion 
 
 ## Currently Learning
 
-- Go
-- Machine Learning and Artificial Intelligence
+- **Programming Languages:** Go
+- **Tools:** Machine Learning and Artificial Intelligence
 
 ## Contact
 
